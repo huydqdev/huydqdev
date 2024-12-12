@@ -3,7 +3,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/huydqdev"
-  width="760"
+  width="820"
   height="300"
 />
 </a>
